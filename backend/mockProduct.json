@@ -4,7 +4,7 @@
       "id": 1,
       "productName": "Coffee",
       "description": "Bottomless House Roasted Coffee",
-      "price": "2.72",
+      "price": "2.75",
       "img_url": "https://th.bing.com/th/id/R.ea2e094374aec8d7f2fc58e684181797?rik=M2cDXPKerfD1ng&pid=ImgRaw&r=0",
       "calories": "200-300"
     },
@@ -33,7 +33,7 @@
       "calories": "275"
     },
     {
-      "productName": "Cheese Cake",
+      "productName": "Cheesecake",
       "description": "Delicious slice of our classic New York style Cheese Cake",
       "price": "4.75",
       "id": 5,
@@ -63,6 +63,14 @@
       "img_url": "https://i2.wp.com/glutenfreehomestead.com/wp-content/uploads/2016/06/yogurt-with-berries.jpeg?resize=980%2C654&ssl=1",
       "id": 9,
       "calories": "160"
+    },
+    {
+      "productName": "Yoshi",
+      "description": "Puggorino aqua doggo boof much ruin diet dat tungg tho, shoober he made many woofs. ",
+      "price": "234",
+      "calories": "22",
+      "img_url": "https://th.bing.com/th/id/OIP.paYlVFRdxBytOzuYAm2PNgHaJ0?pid=ImgDet&rs=1",
+      "id": 10
     }
   ]
 }
